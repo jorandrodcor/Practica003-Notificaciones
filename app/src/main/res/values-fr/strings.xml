@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pratique003 - Notifications</string>
+    <string name="mensaje01">Message par défaut (Toast)</string>
+    <string name="mensaje02">Message conçu sur mesure</string>
+    <string name="alerta">Message d alerte</string>
+    <string name="ejemplo">Exemple de notification</string>
+    <string name="aqui">Ici</string>
+    <string name="mensaje">Message</string>
+    <string name="boton01">TOAST 01</string>
+    <string name="boton04">Barre de notification</string>
+    <string name="estado">!Attention!</string>
+    <string name="titulo">Message d alerte</string>
+    <string name="descripcion">Exemple de notification</string>
+</resources>
